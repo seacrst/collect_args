@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["Seacrest <seacrest@ukr.net>"]
 description = "Parses env args"
 homepage = "https://github.com/seacrst/collect_args"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [lib]
